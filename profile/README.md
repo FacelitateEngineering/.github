@@ -1,5 +1,6 @@
 ## Hi there 👋
 Facelitate is a Hong Kong based Facial Capture Technology startup. 
+We experiment with different new tech to improve studio and home performance capturing. 
 <!--
 
 **Here are some ideas to get you started:**
